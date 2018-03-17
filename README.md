@@ -21,7 +21,7 @@ GP's do not have a comprehensive enough list of social activities and that preve
 ### Key challenges to social prescribing:
 
 According to a 2017 survey of 560 GPs, the key barriers to using social prescribing more are:
-- Lack of information about available services (40% said they would refer more if they had more information about available services)
+- Lack of information about available services (40% said they would refer more if they had more information about available services *)
 - Lack of funding
 - Perception of role and responsibilities (some GP's don't see it as their responsibility as it is non-medical)
 - Perception of negative political implications (some GP's felt that it places unfair burden on charities and community groups to support vulnerable people)
@@ -44,8 +44,8 @@ He says that the picture of social prescribing in England is “a very mixed bag
 
 “We need to stop talking about pilots – because they get dropped. We need to have prototypes instead, which get developed.”
 
-[Red Cross - ISOLATION AND LONELINESS An overview of the literature]: https://www.redcross.org.uk/What-we-do/Health-and-social-care/Independent-living/Loneliness-and-isolation/~/media/BritishRedCross/Documents/What%20we%20do/UK%20services/CoOpIsolationLonelinessA444ppAW.pdf
-
-[The impact of social prescribing]: http://bmjopen.bmj.com/content/7/7/e015203
+[Red Cross - ISOLATION AND LONELINESS An overview of the literature](https://www.redcross.org.uk/What-we-do/Health-and-social-care/Independent-living/Loneliness-and-isolation/~/media/BritishRedCross/Documents/What%20we%20do/UK%20services/CoOpIsolationLonelinessA444ppAW.pdf)
+[GP takeup and experiences of social prescribing](https://www.gponline.com/social-prescribing-used-regularly-one-five-gps/article/1438039)
+[The impact of social prescribing](http://bmjopen.bmj.com/content/7/7/e015203)
 
 
