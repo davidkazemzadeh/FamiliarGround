@@ -45,7 +45,9 @@ He says that the picture of social prescribing in England is “a very mixed bag
 “We need to stop talking about pilots – because they get dropped. We need to have prototypes instead, which get developed.”
 
 [Red Cross - ISOLATION AND LONELINESS An overview of the literature](https://www.redcross.org.uk/What-we-do/Health-and-social-care/Independent-living/Loneliness-and-isolation/~/media/BritishRedCross/Documents/What%20we%20do/UK%20services/CoOpIsolationLonelinessA444ppAW.pdf)
+
 [GP takeup and experiences of social prescribing](https://www.gponline.com/social-prescribing-used-regularly-one-five-gps/article/1438039)
+
 [The impact of social prescribing](http://bmjopen.bmj.com/content/7/7/e015203)
 
 
